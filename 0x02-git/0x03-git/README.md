@@ -1,0 +1,1 @@
+**I now understand that if you want to be successful in this course, my brother, its not easy at all**
