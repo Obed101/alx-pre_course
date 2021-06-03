@@ -1,7 +1,12 @@
 #!/bin/bash
+<<<<<<< HEAD
  HEAD
 
 echo"ALX school is so cool!"
+=======
+
+echo "cool, all my changes will now be part of my main branch, ready to be deployed!"
+>>>>>>> 650e2b86a967c887ea67e74d514cbf93bd044791
  
 
 echo "ALX School"
