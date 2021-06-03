@@ -1,6 +1,4 @@
 #!/bin/bash
-ALX school
 
-echo "ALX school is so cool!"
-echo "ALX school"
+echo "cool, all my changes will now be part of my main branch, ready to be deployed!"
  
